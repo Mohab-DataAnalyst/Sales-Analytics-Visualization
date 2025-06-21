@@ -59,9 +59,11 @@ All relationships are one-to-many and optimized for efficient filtering and cros
 ---
 
 ## 🖥️ Dashboard Snapshots
-![image alt]()
-![image alt]()
-![image alt]()
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/Sales%20Data%20Model.PNG?raw=true" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/sales%20report.PNG?raw=true" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Performance-and-Customer-Trends-Visualization/blob/main/customer%20&%20sales%20trends.PNG?raw=true" width="800" height="500"/>
+</p>
 ---
 
 ## 📌 Insights Extracted
