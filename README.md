@@ -60,11 +60,13 @@ All relationships are one-to-many and optimized for efficient filtering and cros
 
 ## 🖥️ Dashboard Snapshots
 <p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/Sales-Analytics-Visualization/blob/main/sales%20analysis%20data%20model.PNG?raw=true" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/Sales-Analytics-Visualization/blob/main/Avg%20Daily%20GP%20report.PNG?raw=true" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/Sales-Analytics-Visualization/blob/main/revenue%20by%20product%20report.PNG?raw=true" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/Sales-Analytics-Visualization/blob/main/Avg%20revenue%20last%2012%20months%20report.PNG?raw=true" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/Sales-Analytics-Visualization/blob/main/fiscal%20report.PNG?raw=true" width="800" height="500"/>
 </p>
+
 ---
 
 ## 📌 Insights Extracted
